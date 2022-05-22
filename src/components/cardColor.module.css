@@ -1,0 +1,24 @@
+.orange{
+    background-color: orange;
+    width: 50%;
+    /* background-color: #ffa500; */
+    margin: auto;
+    margin-top: 20px;
+    padding: 20px 20px;
+}
+.orange img{
+    height: 80px;
+    width: 80px;
+  } 
+.white{
+    background-color: whitesmoke;
+    width: 50%;
+    /* background-color: #ffa500; */
+    margin: auto;
+    margin-top: 20px;
+    padding: 20px 20px;
+}
+.white img{
+    height: 80px;
+    width: 80px;
+  } 
